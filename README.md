@@ -3,7 +3,7 @@ Solving Sudoku puzzle using a backtracking algorithm
 
 ## Backtracking
 
-Backtracking é um tipo de algoritmo que trás um refinamento da busca bruta.
+Backtracking é um tipo de algoritmo que traz um refinamento da busca bruta.
 O algoritmo busca construir uma solução a partir de candidatos de maneira incremental. Ao perceber que um candidato não pode alcançar uma solução válida, o algoritmo volta (backtracks) para testar um candidato diferente.
 
 ## Backtracking Sudoku
